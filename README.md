@@ -1,4 +1,4 @@
-Thanks for taking a look at my Cypress automation testing code from my recent coursework. 
+Thanks for taking a look at my Cypress front-end automation testing code from my recent coursework. 
 
 Video Preview
 -------------
