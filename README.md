@@ -1,4 +1,4 @@
-Thanks for taking a look at my Cypress front-end automation testing code from my recent coursework. 
+Thanks for taking a look at my Cypress front-end automation testing code from my recent coursework. Tests based on the Mocha framework can be found in the cypress/integration folder above. And a video of the tests running can be seen below.
 
 Video Preview
 -------------
